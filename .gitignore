@@ -15,7 +15,7 @@ obj/
 *.sln.docstates
 
 # Ignore Rider settings
-.idea/.idea.SOLID-Principles-and-Examples.dir
+.idea/.idea.SOLID-Principles-and-Examples.dir/.idea
 
 # Ignore Rider workspace
 .idea/workspace.xml
