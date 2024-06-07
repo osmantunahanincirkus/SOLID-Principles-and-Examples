@@ -1,0 +1,88 @@
+# Ignore .idea folder (Rider specific)
+.idea/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.user
+*.pidb
+*.sln.docstates
+
+# Ignore Rider settings
+.idea/.idea.SOLID-Principles-and-Examples.dir
+
+# Ignore Rider workspace
+.idea/workspace.xml
+
+# Ignore compiled files
+*.dll
+*.exe
+*.so
+*.dylib
+*.class
+
+# Ignore logs and database
+*.log
+*.sql
+*.sqlite
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+
+# Ignore package directories
+node_modules/
+bower_components/
+
+# Ignore .NET Core directories
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore publish directory
+publish/
+
+# Ignore coverage reports
+coverage/
+*.coverage
+*.coveragexml
+*.coveragejson
+*.opencover
+*.xml
+*.codacy
+*.lint
+*.shf
+*.lcl
+
+# Ignore JetBrains Rider specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/.idea.SOLID-Principles-and-Examples.dir
+
+# Ignore Rider indexed files
+.idea/.rider/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore other IDE specific files
+*.sublime-project
+*.sublime-workspace
+.idea/
+
+# Ignore tool specific files
+*.toolpath
+*.paket
+
+# Ignore styles
+styles.css.map
